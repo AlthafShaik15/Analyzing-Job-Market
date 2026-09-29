@@ -1,372 +1,132 @@
-\# 📊 Analyzing Job Market — Power BI Dashboard
+# 📊 Analyzing Job Market — Power BI Dashboard
 
+<p align="center">
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Analytics-00A4EF?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-742774?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Completed-007ACC?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Interactive-FF6F00?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-5C2D91?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)
+![Project Status](https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-Project-8A2BE2?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-!\[Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge\\\&logo=powerbi)
+</p>
 
-!\[Data Analysis](https://img.shields.io/badge/Data%20Analysis-Completed-blue?style=for-the-badge)
+---
 
-!\[Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+## 📌 About the Project
 
+**Analyzing Job Market** is an interactive **Power BI dashboard** designed to analyze and understand job-market data through meaningful visualizations and interactive reports.
 
+The project transforms raw job-related data into an easy-to-understand dashboard that helps users explore patterns, compare job opportunities, and identify useful insights from the dataset.
 
-\## 📌 About the Project
+This project demonstrates practical skills in **data cleaning, data transformation, data analysis, DAX, data visualization, and dashboard design** using Microsoft Power BI.
 
+---
 
+## 🎯 Project Objectives
 
-\*\*Analyzing Job Market\*\* is an interactive Power BI dashboard created to explore and understand job-market data.
+The main objectives of this project are:
 
+- 📊 Analyze job-market data using Power BI
+- 🔍 Identify important trends and patterns
+- 📈 Compare different job-related categories
+- 🧹 Clean and transform raw data
+- 🧮 Create analytical calculations using DAX
+- 🎨 Design an interactive and easy-to-understand dashboard
+- 💡 Extract meaningful insights from the data
+- 📑 Present analytical results through visual reports
 
+---
 
-The dashboard turns raw job-related data into interactive visualizations that make it easier to identify patterns, compare job opportunities, and understand different aspects of the job market.
+## 🛠️ Tools & Technologies
 
+| Technology | Purpose |
+|---|---|
+| 📊 **Microsoft Power BI** | Dashboard development and data visualization |
+| 🔄 **Power Query** | Data cleaning and transformation |
+| 🧮 **DAX** | Calculations, measures, and analysis |
+| 📈 **Data Visualization** | Charts, KPIs, tables, and interactive visuals |
+| 🗂️ **Data Modeling** | Organizing and connecting data |
+| 🐙 **Git & GitHub** | Version control and project hosting |
 
+---
 
-This project was created as a \*\*data analytics and business intelligence project\*\* using Microsoft Power BI.
+## 📊 Dashboard Features
 
+### 🔹 Interactive Dashboard
 
+The dashboard provides an interactive interface for exploring different aspects of the job-market dataset.
 
-\---
+Users can interact with charts, filters, and slicers to explore the information from different perspectives.
 
+### 🔹 Data Cleaning
 
+Raw data is processed and prepared before visualization using **Power Query**.
 
-\## 🎯 Project Objectives
+This helps improve data quality and makes the dataset suitable for analysis.
 
+### 🔹 Data Transformation
 
+The project uses Power Query transformations to prepare the data for analysis and reporting.
 
-The main goals of this project are to:
+### 🔹 DAX Calculations
 
+DAX is used to create analytical calculations and measures that support the dashboard's visualizations.
 
+### 🔹 Interactive Filters
 
-\* Analyze job-market data using interactive dashboards
+Slicers and filters allow users to focus on specific categories and explore the dataset interactively.
 
-\* Identify important trends and patterns
+### 🔹 Visual Analysis
 
-\* Compare different job-related categories
+Charts, tables, KPIs, and other Power BI visuals are used to present the data in a simple and understandable way.
 
-\* Present complex data in an easy-to-understand format
+---
 
-\* Build an interactive dashboard for data exploration
+## 📸 Dashboard Preview
 
-\* Practice data cleaning, transformation, visualization, and analysis
+### 🖥️ Dashboard Overview
 
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
+### 📈 Job Market Analysis
 
-\---
+![Job Market Analysis](screenshots/job-market-analysis.png)
 
+### 🔍 Additional Insights
 
+![Additional Insights](screenshots/insights.png)
 
-\## 🛠️ Tools \& Technologies
+> **Note:** Make sure these image files exist inside the `screenshots` folder with the exact filenames shown above.
 
+---
 
-
-| Tool                   | Purpose                                        |
-
-| ---------------------- | ---------------------------------------------- |
-
-| \*\*Power BI\*\*           | Dashboard development and visualization        |
-
-| \*\*Power Query\*\*        | Data cleaning and transformation               |
-
-| \*\*DAX\*\*                | Calculations and analytical measures           |
-
-| \*\*Data Visualization\*\* | Charts, KPIs, filters, and interactive reports |
-
-
-
-\---
-
-
-
-\## 📊 Dashboard Features
-
-
-
-\### 🔹 Interactive Dashboard
-
-
-
-The dashboard provides an interactive way to explore the job-market dataset.
-
-
-
-Users can interact with visualizations and filters to analyze different sections of the data.
-
-
-
-\### 🔹 Data Analysis
-
-
-
-The project focuses on extracting useful information from raw job-market data and presenting it through meaningful visualizations.
-
-
-
-\### 🔹 Interactive Filters
-
-
-
-Filters and slicers allow users to explore specific parts of the dataset without manually changing the underlying data.
-
-
-
-\### 🔹 Visual Insights
-
-
-
-Different charts and KPI-style visuals are used to make trends and comparisons easier to understand.
-
-
-
-\---
-
-
-
-\## 📸 Dashboard Preview
-
-
-
-\### Dashboard Overview
-
-
-
-!\[Dashboard Overview](screenshots/dashboard-overview.png)
-
-
-
-\### Job Market Analysis
-
-
-
-!\[Job Market Analysis](screenshots/job-market-analysis.png)
-
-
-
-\### Additional Insights
-
-
-
-!\[Additional Insights](screenshots/insights.png)
-
-
-
-> \*\*Note:\*\* Replace the screenshot names above with the actual names of the images you upload.
-
-
-
-\---
-
-
-
-\## 🔍 What I Learned
-
-
-
-Through this project, I practiced:
-
-
-
-\* Importing data into Power BI
-
-\* Cleaning and transforming data using Power Query
-
-\* Creating relationships between data
-
-\* Writing DAX calculations
-
-\* Creating interactive visualizations
-
-\* Designing dashboards for better readability
-
-\* Extracting insights from data
-
-\* Presenting analytical results visually
-
-
-
-\---
-
-
-
-\## 📂 Project Structure
-
-
+## 📈 Project Workflow
 
 ```text
-
-Analyzing-Job-Market/
-
-│
-
-├── 📊 Analyzingjobmarket.pbix
-
-├── 📖 README.md
-
-│
-
-└── 📸 screenshots/
-
-&#x20;   ├── dashboard-overview.png
-
-&#x20;   ├── job-market-analysis.png
-
-&#x20;   └── insights.png
-
-```
-
-
-
-\---
-
-
-
-\## 🚀 How to Open the Project
-
-
-
-\### 1. Clone the repository
-
-
-
-```bash
-
-git clone https://github.com/AlthafShaik15/Analyzing-Job-Market.git
-
-```
-
-
-
-\### 2. Open the project folder
-
-
-
-```bash
-
-cd Analyzing-Job-Market
-
-```
-
-
-
-\### 3. Open the Power BI file
-
-
-
-Open:
-
-
-
-```text
-
-Analyzingjobmarket.pbix
-
-```
-
-
-
-using \*\*Microsoft Power BI Desktop\*\*.
-
-
-
-> Power BI Desktop is required to open and edit the `.pbix` file.
-
-
-
-\---
-
-
-
-\## 📈 Project Workflow
-
-
-
-```text
-
-Raw Job Data
-
-&#x20;    ↓
-
-Data Cleaning
-
-&#x20;    ↓
-
-Data Transformation
-
-&#x20;    ↓
-
-Data Modeling
-
-&#x20;    ↓
-
-DAX Calculations
-
-&#x20;    ↓
-
-Data Visualization
-
-&#x20;    ↓
-
-Interactive Power BI Dashboard
-
-```
-
-
-
-\---
-
-
-
-\## 💡 Key Skills Demonstrated
-
-
-
-\* Data Analysis
-
-\* Data Cleaning
-
-\* Data Transformation
-
-\* Power Query
-
-\* DAX
-
-\* Data Visualization
-
-\* Dashboard Design
-
-\* Business Intelligence
-
-\* Interactive Reporting
-
-\* Analytical Thinking
-
-
-
-\---
-
-
-
-\## 👨‍💻 Author
-
-
-
-\*\*Althaf Shaik\*\*
-
-
-
-🔗 GitHub: \[AlthafShaik15](https://github.com/AlthafShaik15)
-
-
-
-\---
-
-
-
-\## ⭐ If you find this project useful
-
-
-
-Feel free to explore the dashboard, review the project structure, and use it as a reference for learning Power BI and data analytics.
-
-
-
+        Raw Job Data
+              │
+              ▼
+       Data Cleaning
+              │
+              ▼
+     Data Transformation
+              │
+              ▼
+        Data Modeling
+              │
+              ▼
+       DAX Calculations
+              │
+              ▼
+      Data Visualization
+              │
+              ▼
+   Interactive Power BI Dashboard
+              │
+              ▼
+        Job Market Insights
